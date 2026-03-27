@@ -60,7 +60,7 @@ After running the final cell, a local web UI launches. Select a location from th
 ├── House_Prices.ipynb
 ├── House_Prices.csv
 ├── LICENSE
-├── .gitignore
+├── requirements.txt
 └── README.md
 ```
 
